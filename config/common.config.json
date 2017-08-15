@@ -1,0 +1,7 @@
+{
+    "api-urls":{
+        "home":"/litmus7/cms/home",
+        "browse":"/catalog/category/view/id/",
+        "product":"/catalog/product/view/id/"
+    }
+}
